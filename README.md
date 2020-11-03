@@ -1,2 +1,9 @@
-# instagram-clone-relogin
- Imitação da página de re-login do instagram
+# 🔖 Instagram - Página de re-login
+
+<p align="center">
+ <img src="/img/preview.png" alt="PRs welcome!" />
+</p>
+</br>
+
+Imitação da página de re-login do instagram feita em [HTML](https://www.w3schools.com/html/)
+/[CSS](https://www.w3schools.com/css/default.asp), parte do Bootcamp de HTML e CSS da [https://digitalinnovation.one/).
